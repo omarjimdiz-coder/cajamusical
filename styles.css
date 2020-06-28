@@ -8,6 +8,12 @@ body {
   font-family: "Montserrat", sans-serif;
 }
 
+.imagen {
+  width: 70px;
+  margin-left: 160px;
+  margin-bottom: 20px;
+}
+
 .app {
   height: 100vh;
   display: flex;
